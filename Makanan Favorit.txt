@@ -3,3 +3,5 @@ Makanan Favorit
 - Soto
 - Bakso
 - Mie goreng
+- Ayam goreng
+- pasta
