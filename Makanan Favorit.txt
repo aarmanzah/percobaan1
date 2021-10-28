@@ -1,0 +1,5 @@
+Makanan Favorit
+- Nasi goreng
+- Soto
+- Bakso
+- Mie goreng
